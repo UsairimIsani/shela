@@ -34,3 +34,9 @@ for example i use the bash script for adding code-insiders . as code in the alia
 ```bash
 echo 'alias ce="code-insiders ."' >> ~/.bash_aliases
 ```
+
+## Pausing in bash scripting
+
+```bash
+read -p "Pausing for 4 amount of time in s" -t 4
+```
