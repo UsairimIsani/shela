@@ -1,17 +1,12 @@
-# ! /bin/bash   
-echo "Hello World"
-#This is a comment and I am chicken.
-echo $BASH
-echo $BASH_VERSION
-echo $BASH_VERSINFO
-echo $COLUMNS
-echo $UID
-echo $PWD
-# printenv
-name="USairim ISani"
-echo This is $name
-echo "Enter Name : "
-read name name1 name2 
-echo "Entered Name : " $name, $name1, $name2
-read -p "USarim" name
-echo "Usairim $name"
+# read -a names 
+# cho=("$@")
+# echo ${names[0]} ${names[2]} ${names[1]} 
+# echo ${cho[0]} ${cho[2]} ${cho[1]}
+
+
+#making aliases in bash lets seee
+
+echo 'alias ce="code-insiders ."' >> ~/.bash_aliases
+
+
+
