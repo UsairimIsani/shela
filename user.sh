@@ -1,2 +1,2 @@
-sudo useradd test
-sudo passwd test
+sudo adduser username
+sudo usermod -aG group username
