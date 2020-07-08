@@ -1,2 +1,0 @@
-FILE_CONTENT=$(cat $1)
-echo $FILE_CONTENT
