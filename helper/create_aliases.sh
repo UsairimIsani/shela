@@ -8,3 +8,5 @@ echo $'\n''alias work="cd ~/Documents/projects/work"' >>~/.bash_aliases
 echo $'\n''alias uni="cd ~/Documents/University"' >>~/.bash_aliases
 echo $'\n''alias books="cd ~/Documents/Books"' >>~/.bash_aliases
 echo $'\n''alias bank="cd ~/Documents/Bank"' >>~/.bash_aliases
+echo $'\n''alias crs="cd ~/Documents/Courses"' >>~/.bash_aliases
+echo $'\n''alias dl="bash /home/usairim/shela/helper/done-list.sh"' >>~/.bash_aliases
