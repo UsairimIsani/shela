@@ -10,3 +10,4 @@ echo $'\n''alias books="cd ~/Documents/Books"' >>~/.bash_aliases
 echo $'\n''alias bank="cd ~/Documents/Bank"' >>~/.bash_aliases
 echo $'\n''alias crs="cd ~/Documents/Courses"' >>~/.bash_aliases
 echo $'\n''alias dl="bash /home/usairim/shela/helper/done-list.sh"' >>~/.bash_aliases
+echo $'\n''alias exs="cd $(exercism workspace)"' >>~/.bash_aliases
