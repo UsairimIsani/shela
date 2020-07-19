@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+bash /home/usairim/gitcommiter/gitcommiter.sh > /home/usairim/gitcommiter/push.log 2>&1
+exit
