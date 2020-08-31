@@ -13,3 +13,4 @@ echo $'\n''alias crs="cd ~/Documents/Courses"' >>~/.bash_aliases
 echo $'\n''alias dl="bash /home/usairim/shela/helper/done-list.sh"' >>~/.bash_aliases
 echo $'\n''alias exs="cd $(exercism workspace)"' >>~/.bash_aliases
 echo $'\n''alias adm="code-insiders ~/Documents/projects/personal/adm"' >>~/.bash_aliases
+echo $'\n''alias adio="/usr/local/android-studio/bin/studio.sh"' >>~/.bash_aliases
