@@ -3,8 +3,8 @@ work="/home/$USER/Documents/projects/work"
 opso="/home/$USER/Documents/projects/opso"
 uni="/home/$USER/Documents/University"
 books="/home/$USER/Documents/Books"
-banks="/home/$USER/Documents/Banks"
-dir=($personal $work $opso $uni $books $banks)
+bank="/home/$USER/Documents/Bank"
+dir=($personal $work $opso $uni $books $bank)
 git="git clone"
 for i in ${dir[@]}; do
     mkdir $i
