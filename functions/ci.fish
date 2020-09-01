@@ -1,4 +1,4 @@
 function ci
-    command code-insiders $argv
+    code-insider .
 end
 
